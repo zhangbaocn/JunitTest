@@ -1,6 +1,6 @@
-package cn.jtp;
+package cn.jtp.l001;
 
-public class JunitTest001 {
+public class Junit {
 
 	public String m001(String in) {
 		return "m001" + in;
