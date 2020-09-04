@@ -6,6 +6,7 @@ public class JtpMain {
 
 		System.out.println("Hello Junit Test!");
 
+		System.out.println("Hello GitHub!");
 	}
 
 }
