@@ -10,6 +10,6 @@ public class MessageUtil {
 
 	public String printMessage() {
 		System.out.println(this.message);
-		return this.message;
+		return "print" + this.message;
 	}
 }
